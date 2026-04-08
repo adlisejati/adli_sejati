@@ -1,6 +1,6 @@
 # adli_sejati
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00D1FF&center=true&vCenter=true&width=700&lines=ADLI+SEJATI;Software+Engineering+Student;Data+Science+Enthusiast;Building+Scalable+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00D1FF&center=true&vCenter=true&width=700&lines=ADLI+SEJATI;Informatics+Engineering+Student;Data+Science+Enthusiast;Building+Scalable+Systems" alt="Typing SVG" />
 
   <p align="center">
     <a href="https://linkedin.com/in/adlisejati"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -16,6 +16,7 @@
     <td width="50%" valign="top">
       <h4>🚀 Main Missions</h4>
       <ul>
+        <li><b>Academic:</b> Pursuing <b>Informatics Engineering</b> degree.</li>
         <li><b>Current:</b> Exploring <b>Machine Learning</b> & Deep Learning.</li>
         <li><b>Daily Driver:</b> Optimizing <b>C/C++</b> memory & <b>Java</b> architectures.</li>
         <li><b>Focus:</b> Clean Code & Data-Driven Decision Making.</li>
@@ -34,7 +35,7 @@
 * **[Operating Systems]** Mastered thread synchronization and mutex handling in **C**.
 * **[Machine Learning]** Developing predictive models using **Python** (Scikit-learn/Pandas).
 * **[Project INTRIVIA]** Leading the data structure design for **INTRIVIA 2025**.
-* **[Math for CS]** Solving complex Linear Algebra problems through code implementation.
+* **[Informatics]** Applied core computer science principles to solve real-world problems.
 
 ---
 
@@ -49,13 +50,6 @@
 </p>
 
 ---
-
-### 📂 Highlighted Repositories
-> **Note:** Don't forget to check my **Pinned Repositories** below for detailed documentation of my best projects.
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adli_sejati&theme=tokyonight" />
-</div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00D1FF&height=100&section=footer" />
